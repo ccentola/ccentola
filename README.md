@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hi i'm Carl! I'm a software engineer based in Phoenix, AZ.
+
+I'm currently working on building ML products @ Pendulum.
+
 <!--
 **ccentola/ccentola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
