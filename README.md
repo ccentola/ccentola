@@ -4,6 +4,8 @@ Hi i'm Carl! I'm a software engineer based in Phoenix, AZ.
 
 I'm currently working on building ML products @ Pendulum.
 
+[![Linkedin Badge](https://img.shields.io/badge/-carlcentola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlcentola/)](https://www.linkedin.com/in/carlcentola/)
+
 ![](https://komarev.com/ghpvc/?username=ccentola&color=orange)
 
 <!--
