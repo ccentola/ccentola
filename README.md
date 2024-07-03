@@ -4,6 +4,8 @@ Hi i'm Carl! I'm a software engineer based in Phoenix, AZ.
 
 I'm currently working on building ML products @ Pendulum.
 
+![](https://komarev.com/ghpvc/?username=ccentola&color=orange)
+
 <!--
 **ccentola/ccentola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
