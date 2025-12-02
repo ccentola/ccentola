@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Hi i'm Carl! I'm a Software/Data Engineer based in Phoenix, AZ.
-
-I'm currently building and maintaining Data and AI products @ Pendulum.
+Hi i'm Carl! I'm a Software/Data Engineer based in Boston, MA
 
 [![Linkedin Badge](https://img.shields.io/badge/-carlcentola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlcentola/)](https://www.linkedin.com/in/carlcentola/)
 
