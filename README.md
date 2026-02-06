@@ -1,22 +1,16 @@
-### Hi there 👋
+# Hi there 👋 I'm Carl!
 
-Hi i'm Carl! I'm a Software/Data Engineer based in Boston, MA
+**Software & Data Engineer | Boston, MA**
 
-[![Linkedin Badge](https://img.shields.io/badge/-carlcentola-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlcentola/)](https://www.linkedin.com/in/carlcentola/)
+I’m a builder who enjoys turning messy data into actionable insights.
 
-![](https://komarev.com/ghpvc/?username=ccentola&color=orange)
+---
 
-<!--
-**ccentola/ccentola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stats & Connectivity
+<p align="left">
+<a href="https://www.linkedin.com/in/carlcentola/">
+  <img src="https://img.shields.io/badge/-carlcentola-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Visitor Count](https://komarev.com/ghpvc/?username=ccentola&label=PROFILE+VIEWS&color=orange&style=flat-square)
+</p>
